@@ -4,8 +4,8 @@
       "title": "ViiPer Hub",
       "description": "Our custom game hub",
       "author": "Gloozzy",
-      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888247211945771068/maxresdefault.jpg",
-      "scriptURLRaw": "https://athoi21.xyz/owlhub"
+      "imageURL": "https://cdn.discordapp.com/attachments/752230751365496913/917944212463435816/unknown.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
     },
   ],
   "WhiteList": "true"
