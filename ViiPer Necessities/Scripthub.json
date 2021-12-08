@@ -1,0 +1,74 @@
+{
+  "scripts": [
+    { "title": "Dex Explorer", "description": "Explorer useful for Script Devs", "author": "unknown", "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888611712838799440/Screenshot_20210918-075526_Edge.jpg", "scriptURLRaw": "https://cdn.wearedevs.net/scripts/Dex%20Explorer%20V2.txt" },
+    { "title": "CMDX", "description": "admin console script", "author": "cmdx team", "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888614866812817448/Screenshot_20210918-080753_Edge.jpg", "scriptURLRaw": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source" },
+    {
+      "title": "Owl Hub",
+      "description": "The OG Hub [Discontinued but works for some games]",
+      "author": "unknown",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888247211945771068/maxresdefault.jpg",
+      "scriptURLRaw": "https://athoi21.xyz/owlhub"
+    },
+    { "title": "Infinite Yeild", "description": "One of the best, if not the best FE script.", "author": "Infinite Yeild Team", "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/892022429822615572/f3658200-3abc-11ea-973a-b024e3a60673.png", "scriptURLRaw": "https://pastebin.com/raw/cPxGx27V" },  
+    { "title": "DomainX", "description": "100+ Games, Good Performance,  Incredible UI and much more", "author": "Shlex", "imageURL": "https://media.discordapp.net/attachments/872654761017618484/893483107892723752/Screenshot_20211001-183245_Edge.jpg", "scriptURLRaw": "https://shlex.dev/release/domainx/latest.lua" },
+    { "title": "Domain Hub", "description": "Domain Hub is the best fe hub", "author": "Shlex", "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888620692818522173/dTCVxAl.png", "scriptURLRaw": "https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source" },
+    {
+      "title": "Imperium",
+      "description": "Imperium Jailbreak auto rob",
+      "author": "Splooshy",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888597574267842620/4e0ab4be92e38c3428de29ad298fa601.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Splooshhy/PantherHub/main/AutoArrest"
+    },
+    {
+      "title": "*NEW!* Static Hub",
+      "description": "Best Free Script Hub",
+      "author": "SirWeeb",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894619966073106462/idkbro.jpg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/NovalineDev/Static-Hub/main/StaticHubLoader.lua"
+    },
+    { "title": "Solaris Hub", "description": "Premium Hub, With 20+ Supported Games", "author": "Solaris Team", "imageURL": "https://cdn.discordapp.com/icons/888415762245619763/0d8f8c5ea7e89c7088cc2c48633fa802.webp?", "scriptURLRaw": "https://pastebin.com/raw/430BSG6V" },
+     { "title": "Dark Hub", "description": "One of the Best Script Hubs", "author": "Bye", "imageURL": "https://th.bing.com/th/id/OIP.MzCVEHsNtPuRGYPAu0J0-QHaEz?pid=ImgDet&rs=1", "scriptURLRaw": "https://darkhub.xyz/remote-script.lua" },
+    { "title": "Hyper X", "description": "OP Script for KingLegacy and BloxFruits", "author": "DookDekee", "imageURL": "https://media.discordapp.net/attachments/889533639048699976/889542666805739550/unknown.png", "scriptURLRaw": "https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/hyperx.lua"},
+    { "title": "Blox Sense", "description": "OP Hub for fps games and more", "author": "iCyphy", "imageURL": "https://media.discordapp.net/attachments/872820742205620265/892338090054647858/unknown.png", "scriptURLRaw": "https://pastebin.com/raw/MeTcsz2E" },
+    { "title": "Lucky Block Battleground", "description": "[HOT] Delta Exclusive Script. Do give it a try.", "author": "Lenny", "imageURL": "https://t7.rbxcdn.com/fe66bcb75bf0136ff382bea17044ef9a", "scriptURLRaw": "https://raw.githubusercontent.com/lxnnydev/PublicScripts/main/luckyblock.lua"},
+    {
+      "title": "Lumber Tycoon",
+      "description": "Dirt Script Lumber Tycoon",
+      "author": "Step",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888588408954449960/unknown.png",
+      "scriptURLRaw": "https://dirtgui.xyz/Lt2.lua"
+    },
+    { "title": "Swag Mode", "description": "Overpowered and unique script for Da Hood, which comes with many features.", "author": "Unknown", "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/892014297100722186/swagmain.png", "scriptURLRaw": "https://pastebin.com/raw/tPGS8B6i" },
+    { "title": "A Bizzare Day", "description": "Standless over Heaven ABD", "author": "Unknown", "imageURL": "https://media.discordapp.net/attachments/888257370701037578/889535566738227340/810b14ed20e6b812b2860c63375d1bf7.png", "scriptURLRaw": "https://pastebin.com/raw/P1qDF8EM" },
+    { "title": "Project Lazarus", "description": "Project Lazarus: ZOMBIES", "author": "unknown", "imageURL": "https://t6.rbxcdn.com/f49d4f77962d251256070ab9c50fb2dc", "scriptURLRaw": "https://pastebin.com/raw/bQakapFJ" },
+    { "title": "Murder Mystery 2", "description": "Eclipse Script for MM2", "author": "Ethanoj", "imageURL": "https://t3.rbxcdn.com/56cdbb2a0a764667467d6f050c65367f", "scriptURLRaw": "https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script" },
+    { "title": "Wacky Wizards", "description": "An OP script for wacky Wizards", "author": "unknown", "imageURL": "https://t4.rbxcdn.com/ec6447869dfc0ace1473a81e81e82e1c", "scriptURLRaw": "http://hastebin.com/raw/iritemikix.md" },
+    { "title": "Strong Man Simulator", "description": "OP Script for Strong Man Simulator", "author": "Unknown", "imageURL": "https://t0.rbxcdn.com/651d5f4bfdb1f6df1ad64fbece21e743", "scriptURLRaw": "https://pastebin.com/raw/SXDriN7Y" },
+    { "title": "Bed Wars", "description": "Bedwars op script with cool features", "author": "unknown", "imageURL": "https://t1.rbxcdn.com/74f947897e2b0bd0925c5fac8a434a2a", "scriptURLRaw": "https://pastebin.com/raw/zfUXN1mF" },
+    { "title": "Welcome to BloxBurg", "description": "OP Script for BloxBurg", "author": "AppleBee", "imageURL": "https://t6.rbxcdn.com/d79bb5aefec120c40ce953c48a6038b6", "scriptURLRaw": "https://cdn.applebee1558.com/alphax/AlphaX.lua" },
+    { "title": "Piggy", "description": "Piggy Script with many Features", "author": "RegularVynixu", "imageURL": "https://t4.rbxcdn.com/b020a30bc644df827f588bcb62bb07df", "scriptURLRaw": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Piggy" },
+    { "title": "BrookHaven", "description": "Cool Script for BrookHaven RP", "author": "Tsuniox", "imageURL": "https://t7.rbxcdn.com/3b9bfbfba33a216d3c339be702051fb0", "scriptURLRaw": "https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/R15GUI.lua" },
+    {
+      "title": "Prison Life",
+      "description": "An overpowered script for PL",
+      "author": "Scam666",
+      "imageURL": "https://t0.rbxcdn.com/3853336f6b59e8d56bb5cd6bcbe667cf",
+      "scriptURLRaw": "https://raw.githubusercontent.com/scam666/Prevail-X/main/src.lua"
+    },
+    {
+      "title": "Strongest Punch Simulator",
+      "description": "Awesome scipt for Strongest Punch Simulator",
+      "author": "Unknown",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894272669103571104/64027679efdc04a067ae4e243d9f0287.png",
+      "scriptURLRaw": "https://pastebin.com/raw/w9MaiZ9i"
+    },
+    {
+      "title": "Evil Hub",
+      "description": "Evil Hub for Blox Fruits",
+      "author": "Natthawat69",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888609575274696725/Evil_Hub.jpg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Natthawat69/EvilHub-FREE/main/Script.lua"
+    }
+  ],
+  "WhiteList": "true"
+}
