@@ -8,25 +8,11 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
     },
     {
-      "title": "ViiPer Hube",
-      "description": "Our custom game hub",
-      "author": "Gloozzye",
-      "imageURL": "https://cdn.discordapp.com/attachments/752230751365496913/917944212463435816/unknown.png",
-      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
-    },
-    {
-      "title": "ViiPer Huab",
-      "description": "Our custom game hub",
-      "author": "Gloozzay",
-      "imageURL": "https://cdn.discordapp.com/attachments/752230751365496913/917944212463435816/unknown.png",
-      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
-    },
-    {
-      "title": "ViiPer dHub",
-      "description": "Our cdustom game hub",
-      "author": "Gloozzy",
-      "imageURL": "https://cdn.discordapp.com/attachments/752230751365496913/917944212463435816/unknown.png",
-      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
+      "title": "Nullware Hub V3",
+      "description": "FE Reanimation",
+      "author": "whited",
+      "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918321419652333598/unknown.png",
+      "scriptURLRaw": "https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/c4f958fbcedba8ae38e8c5df87980e3a/raw/buwXJCdNS7sR2RqM"
     },
   ],
   "WhiteList": "true"
