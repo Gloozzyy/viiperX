@@ -1,0 +1,10 @@
+{
+  "unlockFPS": false,
+  "autoAttach": false,
+  "autoExecute": false,
+  "topMost": false,
+  "autoJoiner": false,
+  "discordRPC": false,
+  "uiOpacity": false,
+  "scriptView": false
+}
