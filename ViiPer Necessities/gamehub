@@ -2,22 +2,22 @@
   "scripts": [
     {
       "title": "ViiPer Hub",
+      "description": "Welcjome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
+    },
+    {
+      "title": "ViiPer Hudb",
+      "description": "Welhcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
+    },
+    {
+      "title": "ViiPer Haub",
       "description": "Welcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
       "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
     },
     {
-      "title": "ViiPer Hub",
-      "description": "Welcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
-      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
-    },
-    {
-      "title": "ViiPer Hub",
-      "description": "Welcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
-      "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
-    },
-    {
-      "title": "ViiPer Hub",
-      "description": "Welcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
+      "title": "ViiPer cHub",
+      "description": "Weglcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
       "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
     },
   ],
