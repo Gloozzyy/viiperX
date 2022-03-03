@@ -64,6 +64,13 @@
       "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
     },
     {
+      "title": "Domain X",
+      "description": "100+ Games, Good Performance,  Incredible UI and much more.",
+      "author": "Shlex",
+      "imageURL": "https://media.discordapp.net/attachments/872654761017618484/893483107892723752/Screenshot_20211001-183245_Edge.jpg",
+      "scriptURLRaw": "https://shlex.dev/release/domainx/latest.lua"
+    },
+    {
       "title": "Funky Friday",
       "description": "Auto Player for Funky Friday",
       "author": "unknown",
@@ -172,7 +179,7 @@
       "title": "Mukuro Hub",
       "description": "Auto Farm Blox Fruit, And More",
       "author": "Unknow",
-      "imageURL": "https://cdn.upload.systems/uploads/KmIRsRtK.png",
+      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948812455121932368/hqdefault.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua"
     },
     {
