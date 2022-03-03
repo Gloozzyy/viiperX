@@ -29,6 +29,27 @@
       "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
     },
     {
+      "title": "Infinite Yeild",
+      "description": "Very good FE admin script",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948762731840946186/f546baace2182479d797a478d6a85844.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+    },
+    {
+      "title": "CMDX",
+      "description": "Very good FE admin script",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948763284251762729/t8BF4Th.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"
+    },
+    {
+      "title": "Dark Dex",
+      "description": "Good for script dev",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948763177615769630/3e5236858ce63145ca2a5c993e55ef6e.png",
+      "scriptURLRaw": "https://controlc.com/e54a0a5b"
+    },
+    {
       "title": "Dark Hub",
       "description": "Best free script | Multi game | ESP | Mores..",
       "author": "Bye...",
