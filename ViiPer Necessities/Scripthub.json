@@ -133,6 +133,27 @@
       "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894272669103571104/64027679efdc04a067ae4e243d9f0287.png",
       "scriptURLRaw": "https://pastebin.com/raw/w9MaiZ9i"
     },
+    {
+      "title": "Evil Hub",
+      "description": "OP Script for BloxFruits",
+      "author": "unknown",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888609575274696725/Evil_Hub.jpg",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Natthawat69/EvilHub-FREE/main/Script.lua"
+    },
+    {
+      "title": "V.G Hub",
+      "description": "V.G Hub | 40+ games | Many Features",
+      "author": "DekuDimz#0152",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948768224198160414/1639606426_The20Wild20West20OP20GUI20-20VG20HUB.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub"
+    }
+    {
+      "title": "Strike Hub",
+      "description": "Last Pirates ( Blox Fruit Script Discontinued )",
+      "author": "StormSKz",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948768098859749396/maxresdefault.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Strikehubv2z/StormSKz/main/All_in_one"
+    },
   ],
   "WhiteList": "true"
 }
