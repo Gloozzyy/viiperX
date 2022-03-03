@@ -84,6 +84,55 @@
       "imageURL": "https://t0.rbxcdn.com/664d382793f450ac446bd7df9f010aae",
       "scriptURLRaw": "https://bloxhub.xyz/script/loader"
     },
+    {
+      "title": "Shindo Life GUI",
+      "description": "Best Exclusive Script GUI for Shindo",
+      "author": "Delta",
+      "imageURL": "https://cdn.discordapp.com/attachments/913407557471703080/947899131177865226/unknown.png",
+      "scriptURLRaw": "https://gitlab.com/littlekiller2927/deltacore/-/raw/main/deltasl.lua"
+    },
+    {
+      "title": "Anime Fighters",
+      "description": "OP and Working Anime Fighters Script",
+      "author": "Code-Fludex",
+      "imageURL": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/Roblox-anime-fighters.jpg?q=50&fit=crop&w=740&dpr=1.5",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Code-Fludex/Lua-Scripts/main/AnimeFightersSim.lua"
+    },
+    {
+      "title": "Super Hero Tycoon",
+      "description": "Best Super Hero Tycoon Script",
+      "author": "Unknown",
+      "imageURL": "https://t5.rbxcdn.com/eebbb0f8582fd1ef8ecc1d7b01e9397d",
+      "scriptURLRaw": "https://pastebin.com/raw/RfA27fJr"
+    },
+    {
+      "title": "Lumber Tycoon",
+      "description": "Dirt Script Lumber Tycoon",
+      "author": "Step",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888588408954449960/unknown.png",
+      "scriptURLRaw": "https://dirtgui.xyz/Lt2.lua"
+    },
+    {
+      "title": "Imperium",
+      "description": "Imperium Jailbreak auto rob",
+      "author": "Splooshy",
+      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888597574267842620/4e0ab4be92e38c3428de29ad298fa601.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Splooshhy/PantherHub/main/AutoArrest"
+    },
+    {
+      "title": "Prison Life",
+      "description": "An overpowered script for PL",
+      "author": "Scam666",
+      "imageURL": "https://t0.rbxcdn.com/3853336f6b59e8d56bb5cd6bcbe667cf",
+      "scriptURLRaw": "https://raw.githubusercontent.com/scam666/Prevail-X/main/src.lua"
+    },
+    {
+      "title": "Strongest Punch Sim",
+      "description": "Awesome scipt for Strongest Punch Simulator",
+      "author": "Unknown",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894272669103571104/64027679efdc04a067ae4e243d9f0287.png",
+      "scriptURLRaw": "https://pastebin.com/raw/w9MaiZ9i"
+    },
   ],
   "WhiteList": "true"
 }
