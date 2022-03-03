@@ -127,11 +127,39 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/scam666/Prevail-X/main/src.lua"
     },
     {
+      "title": "Azure Mines",
+      "description": "Auto-Mine, Webhooks, Optimal Pathfinding",
+      "author": "Kinesis",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948803720647438366/download-3.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/slendercreeper/azuremines/main/Azure%20Final%20Gui.lua"
+    },
+    {
+      "title": "Cheeto Hub",
+      "description": "15 GAMES, DA HOOD, FOOTBALL FUSION, TOWER OF HELL, AND MORE",
+      "author": "Slixx#2043",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948804810520547328/download-4.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/insanedude59/CheetoHub/main/Loader"
+    },
+    {
       "title": "Strongest Punch Sim",
       "description": "Awesome scipt for Strongest Punch Simulator",
       "author": "Unknown",
       "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894272669103571104/64027679efdc04a067ae4e243d9f0287.png",
       "scriptURLRaw": "https://pastebin.com/raw/w9MaiZ9i"
+    },
+    {
+      "title": "Auto Grammar",
+      "description": "If you bad english use this",
+      "author": "Shib#1337",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948804919924756540/D40KVhLQ-8.png",
+      "scriptURLRaw": "https://capybaras.wtf/chat/grammar.lua"
+    },
+    {
+      "title": "SkyWars Scirpt Gui",
+      "description": "Auto Win, Mores",
+      "author": "Blockman",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948805339812352090/Png-50.png",
+      "scriptURLRaw": "https://fern.wtf/scripts/skywars_autowin.lua"
     },
   ],
   "WhiteList": "true"
