@@ -133,13 +133,6 @@
       "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/894272669103571104/64027679efdc04a067ae4e243d9f0287.png",
       "scriptURLRaw": "https://pastebin.com/raw/w9MaiZ9i"
     },
-    {
-      "title": "Evil Hub",
-      "description": "OP Script for BloxFruits",
-      "author": "unknown",
-      "imageURL": "https://media.discordapp.net/attachments/872862464142868530/888609575274696725/Evil_Hub.jpg",
-      "scriptURLRaw": "https://raw.githubusercontent.com/Natthawat69/EvilHub-FREE/main/Script.lua"
-    },
   ],
   "WhiteList": "true"
 }
