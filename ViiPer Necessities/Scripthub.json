@@ -78,10 +78,10 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua"
     },
     {
-      "title": "Valiant Arsenal Script",
+      "title": "Valiant Arsenal Script", // https://cdn.discordapp.com/attachments/907539028822331423/937253077503848479/ok.png | https://cdn.discordapp.com/attachments/874705502704128060/892501375429279804/8bf3dfc053751626dfa453cb58248a6a.png
       "description": "A GUI for Arsenal",
       "author": "iCyphy#0002",
-      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/892501375429279804/8bf3dfc053751626dfa453cb58248a6a.png",
+      "imageURL": "https://cdn.discordapp.com/attachments/907539028822331423/937253077503848479/ok.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/JepDeveloper/Valiant/main/jepscript.lua"
     },
     {
