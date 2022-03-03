@@ -63,6 +63,27 @@
       "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918343183082078218/bruh.png",
       "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
     },
+    {
+      "title": "Funky Friday",
+      "description": "Auto Player for Funky Friday",
+      "author": "unknown",
+      "imageURL": "https://t5.rbxcdn.com/6aecfc39821d044aafd746595677ef99",
+      "scriptURLRaw": "https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua"
+    },
+    {
+      "title": "Valiant Arsenal Script",
+      "description": "A GUI for Arsenal",
+      "author": "iCyphy#0002",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/892501375429279804/8bf3dfc053751626dfa453cb58248a6a.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/JepDeveloper/Valiant/main/jepscript.lua"
+    },
+    {
+      "title": "Adopt Me",
+      "description": "Blox Hub Script for adopt me",
+      "author": "unknown",
+      "imageURL": "https://t0.rbxcdn.com/664d382793f450ac446bd7df9f010aae",
+      "scriptURLRaw": "https://bloxhub.xyz/script/loader"
+    },
   ],
   "WhiteList": "true"
 }
