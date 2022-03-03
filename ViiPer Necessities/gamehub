@@ -2,8 +2,66 @@
   "scripts": [
     {
       "title": "ViiPer Hub",
-      "description": "Welcome to a whole new world of exploiting, a powerful hub that fulfills all your needs.",
+      "description": "Our custom game hub",
+      "author": "Gloozzy",
+      "imageURL": "https://cdn.discordapp.com/attachments/752230751365496913/917944212463435816/unknown.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/Gloozzyy/ViiPerHub/main/ViiPerHubRunner"
+    },
+    {
+      "title": "Nullware Hub V3",
+      "description": "FE Reanimation",
+      "author": "whited",
+      "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918321419652333598/unknown.png",
+      "scriptURLRaw": "https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/c4f958fbcedba8ae38e8c5df87980e3a/raw/buwXJCdNS7sR2RqM"
+    },
+    {
+      "title": "Owl Hub",
+      "description": "Owl Hub is a free Roblox script hub, 30games",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948757913751650304/RobloxPlayerBeta_Vqbg0i7U3f.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
+    },
+    {
+      "title": "Solaris",
+      "description": "Multi Game Hub with Great Features",
+      "author": "trill",
+      "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918343183082078218/bruh.png",
+      "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
+    },
+    {
+      "title": "Infinite Yeild",
+      "description": "Very good FE admin script",
+      "author": "Infinite Yeild Team",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948762731840946186/f546baace2182479d797a478d6a85844.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+    },
+    {
+      "title": "CMDX",
+      "description": "Very good FE admin script",
+      "author": "CMDX Team",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948763284251762729/t8BF4Th.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"
+    },
+    {
+      "title": "Dark Dex",
+      "description": "Good for script dev",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948763177615769630/3e5236858ce63145ca2a5c993e55ef6e.png",
+      "scriptURLRaw": "https://controlc.com/e54a0a5b"
+    },
+    {
+      "title": "Dark Hub",
+      "description": "Best free script | Multi game | ESP | Mores..",
+      "author": "Bye...",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948498359214288946/d-2.png",
+      "scriptURLRaw": "https://darkhub.xyz/remote-script.lua"
+    },
+    {
+      "title": "Project Evo V2",
+      "description": "Multi Game Hub with Great Features",
+      "author": "trill",
+      "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918343183082078218/bruh.png",
+      "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
     },
   ],
   "WhiteList": "true"
