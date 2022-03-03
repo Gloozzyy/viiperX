@@ -15,11 +15,25 @@
       "scriptURLRaw": "https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/c4f958fbcedba8ae38e8c5df87980e3a/raw/buwXJCdNS7sR2RqM"
     },
     {
+      "title": "Owl Hub",
+      "description": "Owl Hub is a free Roblox script hub, 30games",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948757913751650304/RobloxPlayerBeta_Vqbg0i7U3f.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
+    },
+    {
       "title": "Solaris",
       "description": "Multi Game Hub with Great Features",
       "author": "trill",
       "imageURL": "https://cdn.discordapp.com/attachments/839000906790862899/918343183082078218/bruh.png",
       "scriptURLRaw": "loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()"
+    },
+    {
+      "title": "Dark Hub",
+      "description": "Best free script | Multi game | ESP | Mores..",
+      "author": "Bye...",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948498359214288946/d-2.png",
+      "scriptURLRaw": "https://darkhub.xyz/remote-script.lua"
     },
     {
       "title": "Project Evo V2",
