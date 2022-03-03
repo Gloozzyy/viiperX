@@ -161,6 +161,27 @@
       "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948805339812352090/Png-50.png",
       "scriptURLRaw": "https://fern.wtf/scripts/skywars_autowin.lua"
     },
+    {
+      "title": "Ez Hub",
+      "description": "Cool Script Work on Some games",
+      "author": "Unknow",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948806211975913472/9k.png",
+      "scriptURLRaw": "https://cdn.wearedevs.net/scripts/Ez Hub.txt"
+    },
+    {
+      "title": "Shoot People Simulator",
+      "description": "Kill all, Others",
+      "author": "Atomicals#8791",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948806630382915656/Png-17-1.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/AtomGotIce/Scripts/main/ShootPeopleSimulatorShotgunVer"
+    },
+    {
+      "title": "Destruction Simulator Gui",
+      "description": "Bom all, Others",
+      "author": "Fade#8495",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948807157963423815/Png-34.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/FadeRemix/RND-Games/main/DestructionSim.lua"
+    },
   ],
   "WhiteList": "true"
 }
