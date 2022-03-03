@@ -182,6 +182,20 @@
       "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948807157963423815/Png-34.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/FadeRemix/RND-Games/main/DestructionSim.lua"
     },
+    {
+      "title": "Project: Bursting Rage",
+      "description": "Autofarm & Chest farm & Others",
+      "author": "Purple#0666",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948808173572198420/Png-69.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/purplethecolor/rblx/main/Project%20Bursting%20Rage"
+    },
+    {
+      "title": "Dragon Ball Final Stand",
+      "description": "Autofarm & Others",
+      "author": "Sys#0002",
+      "imageURL": "https://cdn.discordapp.com/attachments/879984511788675112/948808474740011059/xt95njs.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/Sys0002/luau/main/AutoQuestPlay.lua"
+    },
   ],
   "WhiteList": "true"
 }
