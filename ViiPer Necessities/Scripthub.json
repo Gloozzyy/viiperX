@@ -81,7 +81,7 @@
       "title": "Valiant Arsenal Script", // https://cdn.discordapp.com/attachments/907539028822331423/937253077503848479/ok.png | https://cdn.discordapp.com/attachments/874705502704128060/892501375429279804/8bf3dfc053751626dfa453cb58248a6a.png
       "description": "A GUI for Arsenal",
       "author": "iCyphy#0002",
-      "imageURL": "https://cdn.discordapp.com/attachments/907539028822331423/937253077503848479/ok.png",
+      "imageURL": "https://cdn.discordapp.com/attachments/874705502704128060/892501375429279804/8bf3dfc053751626dfa453cb58248a6a.png",
       "scriptURLRaw": "https://raw.githubusercontent.com/JepDeveloper/Valiant/main/jepscript.lua"
     },
     {
@@ -218,6 +218,27 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/purplethecolor/rblx/main/Project%20Bursting%20Rage"
     },
     {
+      "title": "Anit Afk Script Universal Script",
+      "description": "Features:you can basically be idle in Roblox for 20+ minutes. ",
+      "author": "Unknow",
+      "imageURL": "https://scriptblox.com/images/script_9034379-1645862513660.jpg",
+      "scriptURLRaw": "https://rawscripts.net/raw/Anit-Afk-Script_894 ",
+    },
+    {
+      "title": "NotSwag Da Hood",
+      "description": "Features :https://t7.rbxcdn.com/ccf6ed04311e7440219a12511dc5702f",
+      "author":" https://t7.rbxcdn.com/ccf6ed04311e7440219a12511dc5702f",
+      "imageURL": "https://t7.rbxcdn.com/ccf6ed04311e7440219a12511dc5702f",
+      "scriptURLRaw": "https://rawscripts.net/raw/NotSwag_887 ",
+    },
+    {
+      "title": "Ultimate Fling Script Universal Script ",
+      "description": "Features:it can fling people (R15 Only!) ",
+      "author": "notbelugafan#4899",
+      "imageURL": "https://scriptblox.com/images/script_9310200-1645850212612.jpg",
+      "scriptURLRaw": "https://rawscripts.net/raw/FE-Ultimate-Fling-Script_892 "
+    },
+    {
       "title": "Dragon Ball Final Stand",
       "description": "Autofarm & Others",
       "author": "Sys#0002",
@@ -225,82 +246,26 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/Sys0002/luau/main/AutoQuestPlay.lua"
     },
     {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
+      "title": "Auto TZer0 Hub",
+      "description": "autofarm, autotrial, auto raid, auto meteor, auto defense, auto fuse, auto open, webhook",
+      "author": "!0000#6303",
+      "imageURL": "https://t5.rbxcdn.com/ac2596167a5beef6586af827666fec3b",
+      "scriptURLRaw": "https://rawscripts.net/raw/Zer0-Hub_660)_808"
     },
     {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
+      "title": "Auto Tank Farm | Age of Heroes ",
+      "description": "Tank Farm (FAST XP)",
+      "author": "j#6066",
+      "imageURL": "https://tr.rbxcdn.com/9ebdc51551aea15cbb6829f45a9d81cf/500/280/Image/Jpeg",
+      "scriptURLRaw": "https://rawscripts.net/raw/Auto-%22Tank%22-Farm-(FAST-XP)_808"
     },
     {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
-    {
-      "title": "Placeholder",
-      "description": "Placeholder",
-      "author": "Placeholder",
-      "imageURL": "https://cdn.discordapp.com/attachments/920493949532123186/948870947203584000/placeholder.png",
-      "scriptURLRaw": ""
-    },
+      "title": "hydra wave script Da Hood ",
+      "description": "anti lock, speed glitch, realistic speed glitch(requires 90+ fps and low gfx on da hood), silent aim, autobuy and more!",
+      "author": "cazzy",
+      "imageURL": "https://t7.rbxcdn.com/ccf6ed04311e7440219a12511dc5702f",
+      "scriptURLRaw": "https://rawscripts.net/raw/hydra-wave-script_820"
+     },
   ],
   "WhiteList": "true"
 }
